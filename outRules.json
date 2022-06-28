@@ -1,0 +1,14 @@
+{
+  "":{
+    "dstHost":"192.168.0.109",
+    "dstPort":8888,
+    "dstScheme":"http",
+    "dstPath":""
+  }, 
+  "/hello":{
+    "dstHost":"192.168.0.109",
+    "dstPort":7777,
+    "dstScheme":"http", 
+    "dstPath": "/"
+  }
+}
